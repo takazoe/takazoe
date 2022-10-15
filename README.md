@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**takazoe/takazoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/takazoe/takazoe/">
+    <img src="https://komarev.com/ghpvc/?username=takazoe" alt="takazoe" />
+  </a>
+  <a href="https://github.com/takazoe">
+    <img height="20" src="https://img.shields.io/github/followers/takazoe?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Z0E">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Z0E/posts.svg" />
+  </a>
+  <//qiita.com/Z0E">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Z0E/contributions.svg" />
+  </a>
+</p>
